@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="input_title">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="input_style">
+        <item name="android:background">@drawable/style_input</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="autofill_text_view_style">
+        <item name="android:background">@drawable/style_autofill_text_view</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    <style name="send_btn_style">
+        <item name="android:background">@drawable/style_send_btn</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>
